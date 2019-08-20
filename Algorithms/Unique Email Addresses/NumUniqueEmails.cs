@@ -1,7 +1,7 @@
 //Problem URL: https://leetcode.com/problems/unique-email-addresses/
 
 //Quite possibly the least efficient method of completing this task, however, it does work.
-//I may revisit this in the future and try to find a more performant method.
+//I may revisit this in the future and try to find a more performant method, in both time and space complexity.
 public class Solution {
     public int NumUniqueEmails(string[] emails) {
         List<string> emailees = new List<string>();
